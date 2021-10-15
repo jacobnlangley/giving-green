@@ -1,0 +1,262 @@
+[07-May-2020 01:25:07 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 73
+[07-May-2020 01:25:07 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 74
+[14-May-2020 14:51:11 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 73
+[14-May-2020 14:51:11 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 74
+[20-May-2020 00:57:56 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 00:57:56 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 00:57:56 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:29:57 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:29:57 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:29:57 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:33:42 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:33:42 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:33:42 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:34:24 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:34:24 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:34:24 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:34:49 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:34:49 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:34:49 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:35:19 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:35:19 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:35:19 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:36:10 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:36:10 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:36:10 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:36:14 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:36:14 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:36:14 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:36:59 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:36:59 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:36:59 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:37:42 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:37:42 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:37:42 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:38:43 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:38:43 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:38:43 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:38:49 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:38:49 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:38:49 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:39:06 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:39:06 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:39:06 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:42:47 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:42:47 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:42:47 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:50:26 UTC] PHP Notice:  Undefined property: stdClass::$text in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 19
+[20-May-2020 01:50:26 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:50:26 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:50:26 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:51:13 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 7
+[20-May-2020 01:51:30 UTC] PHP Notice:  Undefined property: stdClass::$text in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 19
+[20-May-2020 01:51:30 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:51:30 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:51:30 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:51:52 UTC] PHP Notice:  Undefined property: stdClass::$text in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 19
+[20-May-2020 01:51:52 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:51:52 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:51:52 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:53:12 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 20
+[20-May-2020 01:53:12 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:53:13 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:53:13 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:53:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php:8
+Stack trace:
+#0 /Users/jacob.langley/Workspace/given/wp-includes/template-loader.php(98): include()
+#1 /Users/jacob.langley/Workspace/given/wp-blog-header.php(19): require_once('/Users/jacob.la...')
+#2 /Users/jacob.langley/Workspace/given/index.php(17): require('/Users/jacob.la...')
+#3 {main}
+  thrown in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 8
+[20-May-2020 01:54:27 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 20
+[20-May-2020 01:54:27 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:54:27 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:54:27 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:55:07 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:55:07 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:55:07 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:55:41 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:55:41 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:55:41 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:56:19 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:56:19 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:56:19 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 01:57:52 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 01:57:52 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 01:57:52 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:04:04 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:04:04 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:04:04 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:05:07 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:05:07 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:05:07 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:08:24 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 53
+[20-May-2020 02:08:24 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 54
+[20-May-2020 02:08:24 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:08:24 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:08:24 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:08:46 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, object given in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 9
+[20-May-2020 02:08:47 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 53
+[20-May-2020 02:08:47 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 54
+[20-May-2020 02:08:47 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:08:47 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:08:47 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:08:50 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, object given in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 9
+[20-May-2020 02:08:50 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 53
+[20-May-2020 02:08:50 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/page-signup.php on line 54
+[20-May-2020 02:08:50 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:08:50 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:08:50 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:09:37 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:09:37 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:09:37 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:09:45 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:09:45 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:09:45 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:10:14 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:10:14 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:10:14 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:10:18 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:10:18 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:10:18 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:10:22 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:10:22 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:10:22 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:18:37 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:18:37 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:18:37 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:18:43 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:18:43 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:18:43 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:18:47 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:18:47 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:18:47 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:06 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:06 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:06 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:15 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:15 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:15 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:18 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:18 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:18 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:22 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:22 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:22 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:25 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:25 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:25 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:28 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:28 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:28 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:32 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:32 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:32 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:35 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:35 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:35 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:19:38 UTC] PHP Notice:  Undefined variable: username in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 152
+[20-May-2020 02:19:38 UTC] PHP Notice:  Undefined variable: password in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 153
+[20-May-2020 02:19:38 UTC] PHP Notice:  Undefined variable: email in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions/custom-register.php on line 154
+[20-May-2020 02:43:23 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 73
+[20-May-2020 02:43:23 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 74
+[20-May-2020 03:00:15 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/hero-grid-vars.php on line 92
+[20-May-2020 03:00:15 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/hero-grid-vars.php on line 122
+[20-May-2020 03:00:15 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/hero-grid-vars.php on line 151
+[20-May-2020 03:00:15 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/hero-grid.php on line 75
+[20-May-2020 03:00:15 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/hero-grid.php on line 75
+[20-May-2020 03:00:15 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/hero-grid.php on line 75
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/hero-grid-vars.php on line 92
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/hero-grid-vars.php on line 122
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/hero-grid-vars.php on line 151
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/hero-grid.php on line 75
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/hero-grid.php on line 75
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/hero-grid.php on line 75
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined variable: cposts in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 35
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined variable: cposts in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 36
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined variable: cposts in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 35
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined variable: cposts in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 36
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined variable: cposts in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 35
+[20-May-2020 03:00:38 UTC] PHP Notice:  Undefined variable: cposts in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 36
+[20-May-2020 03:00:38 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 73
+[20-May-2020 03:00:38 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/loop-archive-grid.php on line 74
+[20-May-2020 03:01:46 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 22
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 29
+[20-May-2020 03:01:46 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 30
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 37
+[20-May-2020 03:01:46 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 38
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 45
+[20-May-2020 03:01:46 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 46
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 53
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 53
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 53
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined index: location_lat in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 72
+[20-May-2020 03:01:46 UTC] PHP Notice:  Undefined index: location_lat in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 72
+[20-May-2020 22:15:04 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 22
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 29
+[20-May-2020 22:15:04 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 30
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 37
+[20-May-2020 22:15:04 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 38
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 45
+[20-May-2020 22:15:04 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 46
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined offset: 3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 53
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined offset: 4 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 53
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined offset: 5 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 53
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined index: location_lat in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 72
+[20-May-2020 22:15:04 UTC] PHP Notice:  Undefined index: location_lat in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 72
+[20-May-2020 22:47:16 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:49:51 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:50:18 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:51:14 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:51:35 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:52:03 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:53:15 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:53:29 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[20-May-2020 22:53:49 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[21-May-2020 01:53:57 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 22
+[21-May-2020 01:53:57 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 30
+[21-May-2020 01:53:57 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 38
+[21-May-2020 01:53:57 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 46
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_bg_img1 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 7
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_header1 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 11
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_content1 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 14
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_bg_img2 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 24
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_header2 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 28
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_content2 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 31
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_bg_img3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 39
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_header3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 43
+[21-May-2020 01:53:57 UTC] PHP Notice:  Undefined variable: story_content3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 46
+[21-May-2020 01:53:57 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 47
+[21-May-2020 01:53:57 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 47
+[21-May-2020 01:53:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 54
+[21-May-2020 01:54:00 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 22
+[21-May-2020 01:54:00 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 30
+[21-May-2020 01:54:00 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 38
+[21-May-2020 01:54:00 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/vars/org-grid-vars.php on line 46
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_bg_img1 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 7
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_header1 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 11
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_content1 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 14
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_bg_img2 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 24
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_header2 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 28
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_content2 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 31
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_bg_img3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 39
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_header3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 43
+[21-May-2020 01:54:00 UTC] PHP Notice:  Undefined variable: story_content3 in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/shared/org-grid.php on line 46
+[21-May-2020 01:54:00 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 47
+[21-May-2020 01:54:00 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 47
+[21-May-2020 01:54:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/single-org.php on line 54
+[21-May-2020 02:09:36 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[21-May-2020 03:56:29 UTC] PHP Notice:  Undefined index: test_mode in /Users/jacob.langley/Workspace/given/wp-content/plugins/WPStripeWebhook-master/includes/settings.php on line 24
+[21-May-2020 04:54:50 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[21-May-2020 04:55:46 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[21-May-2020 15:46:09 UTC] PHP Notice:  Trying to get property of non-object in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/parts/content-edit-org.php on line 11
+[22-May-2020 02:40:41 UTC] PHP Warning:  require_once(/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php): failed to open stream: No such file or directory in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:40:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.1.12/lib/php') in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:40:56 UTC] PHP Warning:  require_once(/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php): failed to open stream: No such file or directory in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:40:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.1.12/lib/php') in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:41:11 UTC] PHP Warning:  require_once(/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php): failed to open stream: No such file or directory in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:41:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.1.12/lib/php') in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:41:14 UTC] PHP Warning:  require_once(/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php): failed to open stream: No such file or directory in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:41:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.1.12/lib/php') in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:41:14 UTC] PHP Warning:  require_once(/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php): failed to open stream: No such file or directory in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
+[22-May-2020 02:41:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.1.12/lib/php') in /Users/jacob.langley/Workspace/given/wp-content/themes/JointsWP-child/functions.php on line 63
